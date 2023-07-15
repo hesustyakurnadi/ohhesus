@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hesus Tya Kurnadi
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Back-end Website Development
+- 🌱 I’m currently learning Website Developer
 - 💞️ I’m looking for intern
 - 📫 ohhesus00@gmail.com
 
